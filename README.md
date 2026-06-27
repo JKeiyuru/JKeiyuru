@@ -21,7 +21,7 @@ Currently working across logistics, fintech, public sector SaaS, and algorithmic
 
 ## 🏗️ Featured Projects
 
-### 🚢 Real Image Logistics Platform
+### 🚢 Logistics Platform
 *Multi-portal logistics management system for a Kenyan cargo and China-sourcing company*
 
 A production-ready platform with **10 distinct user roles**, built on Next.js 15 and MongoDB Atlas. Integrates M-Pesa STK Push for payments, Africa's Talking for SMS notifications, and Resend for transactional email — all behind a role-aware interface that surfaces the right controls to the right people.
