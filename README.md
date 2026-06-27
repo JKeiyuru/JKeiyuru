@@ -5,8 +5,8 @@
 
 *I build software that businesses actually run on.*
 
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:josephkeiyuru1@gmail.com)
+
 
 </div>
 
